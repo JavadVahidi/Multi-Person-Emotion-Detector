@@ -1,2 +1,10 @@
 # Multi-Person-Emotion-Detector
-Multi-Person-Emotion-Detector with python
+# کتابخونه های لازم برای اجرای درست برنامه
+opencv-python
+deepface
+pandas
+pillow
+arabic-reshaper
+python-bidi
+openpyxl
+
